@@ -13,7 +13,7 @@ Alcance: el proceso gestiona las dinámicas e interacciones entre las áreas de 
 Consideraciones:
 -No se realiza configuración de notificaciones en los flujos dado que se trata de un proyecto local que no posee consola web. Por lo tanto, no hay configuración de notificaciones enviadas en ejecución.
 
--No se realiza configuración de asignación de tareas dado que es necesario poblar manualmente la entidad WFUSER para probar la lógica de asignación de usuarios. Se plantea la lógica de tener 4 roles/skills para cada area de negocio y manejar el método de asignación EVERYONE en las tareas de supervición y validación.
+-No se realiza configuración de asignación de tareas dado que es necesario poblar manualmente la entidad WFUSER para probar la lógica de asignación de usuarios. Se plantea la lógica de tener 4 roles/skills para cada area de negocio y manejar el método de asignación EVERYONE en las tareas de supervisión y validación.
 
 -Es requerido poblar manualmente las entidades paramétricas pSucursal, pTipoCompra, pMonedaCompra, y WFUSER. Asimismo, las entidades de negocio: mInventarioProdsMAXI y mConvenioProveedores se deben poblar manualmente desde el proceso dado que su actualización no se encuentra automatizada en la solución propuesta. 
 
