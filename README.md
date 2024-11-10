@@ -19,5 +19,7 @@ Consideraciones:
 
 -Se encuentra pendiente revisar el mapeo del servicio encargado de generar la orden de compra. Se propone manejar la creación y mapeo de documentos mediante la funcionalidad "document templates" utilizando formatos predefinidos por la empresa. 
 
+-La aplicación de proceso es creada en Bizagi Studio 11.2.51034 Non Portable proyecto local
+
 
 
