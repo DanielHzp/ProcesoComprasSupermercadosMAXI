@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "DisplayName": "Gestión Solicitudes de Compras MAXI",
+      "Version": "1.0",
+      "Id": "c7239313-fa45-45cb-a44e-7ece2fb6728b"
+    },
+    {
+      "DisplayName": "Generación Orden de Compra Proveedor",
+      "Version": "1.0",
+      "Id": "854458d4-9b14-4d2a-9cc0-8febaac9a01d"
+    }
+  ],
+  "ExperienceObjects": [],
+  "Options": {
+    "User Properties": false,
+    "SubProcess": false,
+    "EnvironmentParamsValue": false,
+    "AuthOption": false,
+    "Assemblies": false,
+    "Business configuration": false,
+    "Dimensions": false,
+    "Holidays": false,
+    "Oauth2 configuration": false,
+    "Themes": false,
+    "Usergroups": false,
+    "Workcalendar": false,
+    "Custom job": false,
+    "Organization": false,
+    "Org Tables": {
+      "Position": true,
+      "Skills": true,
+      "Location": true,
+      "Area": true,
+      "Role": true,
+      "Organization": true
+    }
+  },
+  "Description": "",
+  "SettingsFormat": "text_ids"
+}
